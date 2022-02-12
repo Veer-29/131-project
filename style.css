@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    border-radius:10px  ;
+    box-shadow:12px 30px 50px aqua;
+}
+
+.button
+{
+    width: 500px;
+    border-radius: 20px;
+    color: wheat;
+    background-image: linear-gradient(to left,#FDA7DF,#5f0b7e,#FDA7DF);
+    box-shadow: #5a1468;
+    height: 30px;
+    font-family: jokerman;
+}
